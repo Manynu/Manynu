@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manynu;
 - 👀 I’m interested in programming;
-- 🌱 I’m currently learning Java;
-- 💞️ I’m looking to collaborate on Java projects;
+- 🌱 I’m currently learning Angular;
+- 💞️ I’m looking to collaborate on Angular projects;
 - 📫 How to reach me: Email - sorin.m.buzea@gmail.com, Tel: +40 750 644 163;
 
 <!---
